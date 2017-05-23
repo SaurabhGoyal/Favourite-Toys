@@ -1,4 +1,4 @@
-package favouritetoys.saurabhgoyal.com.favouritetoys;
+package com.saurabhgoyal.favouritetoys;
 
 import org.junit.Test;
 

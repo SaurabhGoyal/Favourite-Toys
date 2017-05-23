@@ -1,4 +1,4 @@
-package favouritetoys.saurabhgoyal.com.favouritetoys;
+package com.saurabhgoyal.favouritetoys;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("favouritetoys.saurabhgoyal.com.favouritetoys", appContext.getPackageName());
+        assertEquals("com.saurabhgoyal.favouritetoys", appContext.getPackageName());
     }
 }
